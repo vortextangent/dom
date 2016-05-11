@@ -1,11 +1,15 @@
 {
-    "name": "watoki/dom",
+    "name": "vortextangent/dom",
     "description": "A minimal (X)HTML/XML parser for PHP",
     "keywords": ["parser", "watoki"],
-    "homepage": "http://github.com/watoki/dom",
+    "homepage": "http://github.com/watoki/vortextangent",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Tony daCosta",
+            "email": "vortextangent@gmail.com"
+        },
         {
             "name": "Nikolas Martens",
             "email": "Nikolas.M@rtens.org",
